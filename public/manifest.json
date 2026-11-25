@@ -1,0 +1,20 @@
+
+{
+  "name": "Rayani Cone Cosmetics Management",
+  "short_name": "Rayani Cone Cosmetics",
+  "description": "Rayani Cone Cosmetics Management System",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff1f7",
+  "theme_color": "#db2777",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
